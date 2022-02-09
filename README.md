@@ -1,0 +1,2 @@
+# LocationRuntimePermission
+Testing runtime permission
